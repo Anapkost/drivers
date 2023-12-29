@@ -66,8 +66,8 @@ static int r8169_open(struct inode* inode, struct file* file) {
     return 0;
 }
 	
-	long my_ioctl(struct file *filep, unsigned int cmd, unsigned long arg) {
-	switch (cmd) {
+long my_ioctl(struct file *filep, unsigned int cmd, unsigned long arg) {
+switch (cmd) {
 	case 0:
 	memset(value_from_user, 0, sizeof(value_from_user));
 		if (copy_from_user(value_from_user, (char *)arg, MAX_USER_INPUT_SIZE - 1) != 0) {
