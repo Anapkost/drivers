@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/cym.dir/home/oleg/Documents/kernel_learn/lesson2/driverClient.c.o -o cym 

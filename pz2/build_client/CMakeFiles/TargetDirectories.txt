@@ -1,3 +1,0 @@
-/home/oleg/Documents/kernel_learn/lesson2/build_client/CMakeFiles/cym.dir
-/home/oleg/Documents/kernel_learn/lesson2/build_client/CMakeFiles/edit_cache.dir
-/home/oleg/Documents/kernel_learn/lesson2/build_client/CMakeFiles/rebuild_cache.dir
